@@ -1,0 +1,23 @@
+{
+  "name": "jsone",
+  "version": "0.0.0",
+  "description": "a format to reference a node within a json object",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^0.5.0",
+    "tape": "^3.4.0"
+  },
+  "scripts": {
+    "test": "tap test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benatkin/jsone.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Ben Atkin",
+  "license": "MIT"
+}
